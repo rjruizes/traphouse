@@ -1,0 +1,13 @@
+{
+  "name": "traphouse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rjruizes/traphouse.git",
+  "author": "Roman Ruiz",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "morgan": "^1.8.2",
+    "object-assign": "^4.1.1"
+  }
+}
