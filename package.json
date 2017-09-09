@@ -1,7 +1,7 @@
 {
   "name": "traphouse",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "repository": "https://github.com/rjruizes/traphouse.git",
   "author": "Roman Ruiz",
   "license": "MIT",
